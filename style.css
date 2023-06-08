@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://img5.goodfon.com/wallpaper/nbig/e/12/zviozdy-more-mlechnyi-put-shotlandiia-ostrov-skai-maiak-neis.jpg");
+   /*  background-image: url("https://img.peapix.com/3831d61389364ccdac7cb4a23526d443.jpg?attachment&modal"); */
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    
+}
+.ct{
+    font-size: 5rem;
+    color: white;
+    margin-top: -17rem;
+}
+.ctimer{
+    color: white;
+    display: flex;
+    text-align: center;
+}
+.ctimer span{
+    font-size: 3rem;
+}
+.big-text{
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+    margin: 1rem 4rem;
+    
+}
